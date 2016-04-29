@@ -6,7 +6,7 @@
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
-export EDITOR=nano
+export EDITOR=vim
 PS1='[\u@\h \W]\$ '
 
 function secure_chromium {
