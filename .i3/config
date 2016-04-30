@@ -14,7 +14,7 @@ set $mod Mod4
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 #font pango:monospace 8
-font montecarlo
+font pango: montecarlo 7
 
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
@@ -144,6 +144,7 @@ new_window 1pixel
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
+        
         status_command i3status
 }
 exec --no-startup-id /home/jeroen/.screenlayout/boot.sh
