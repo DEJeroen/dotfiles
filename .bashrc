@@ -23,6 +23,9 @@ alias Anetwork="cd ~/Artesis/Jaar2/Mod2/EnterpriseNetworks"
 alias Ainternational="cd ~/Artesis/Jaar2/Mod2/InternationalProject"
 alias ASmart="cd ~/Artesis/Jaar2/Mod2/SmartSystems"
 
+# Stopwatch
+alias timer='echo "Timer started. Stop with Ctrl-D." && date && time cat && date'
+
 #set Vim as default editor
 export EDITOR=vim
 
