@@ -17,6 +17,8 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
 # Shortcuts
+alias symConf="stow -v -t ../ ./"
+alias symDelConf="stow -v -D -t ../ ./"
 alias AdevOps="cd ~/Artesis/Jaar2/Mod2/DevOps"
 alias Aelectric="cd ~/Artesis/Jaar2/Mod2/ElectronicDevices"
 alias Anetwork="cd ~/Artesis/Jaar2/Mod2/EnterpriseNetworks"
