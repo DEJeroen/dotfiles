@@ -6,4 +6,4 @@ xset -dpms s off
 nm-applet&
 blueman-applet&
 unclutter&
-
+i3

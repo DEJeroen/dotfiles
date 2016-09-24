@@ -20,8 +20,6 @@ URxvt*foreground: Green
 # background color (prior to tinting) (default is white)
 URxvt*background: Black
 
-URxvt.font: xft:montecarlo
-
 
 URxvt*color4: RoyalBlue
 URxvt*color12: RoyalBlue
