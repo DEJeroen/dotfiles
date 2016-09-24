@@ -19,11 +19,12 @@ alias -- -="cd -"
 # Shortcuts
 alias symConf="stow -v -t ../ ./"
 alias symDelConf="stow -v -D -t ../ ./"
-alias AdevOps="cd ~/Artesis/Jaar2/Mod2/DevOps"
-alias Aelectric="cd ~/Artesis/Jaar2/Mod2/ElectronicDevices"
-alias Anetwork="cd ~/Artesis/Jaar2/Mod2/EnterpriseNetworks"
-alias Ainternational="cd ~/Artesis/Jaar2/Mod2/InternationalProject"
-alias ASmart="cd ~/Artesis/Jaar2/Mod2/SmartSystems"
+alias AdCloudApplications="cd ~/Artesis/Jaar3/dCloudApplications"
+alias AElectronicSystems="cd ~/Artesis/Jaar3/ElectronicSystems"
+alias AInformationSecurity="cd ~/Artesis/Jaar3/InformationSecurity"
+alias AIoT="cd ~/Artesis/Jaar3/IoT"
+alias AOndernemen="cd ~/Artesis/Jaar3/Ondernemen"
+alias AProfessionalisering="cd ~/Artesis/Jaar3/Professionalisering"
 
 # Stopwatch
 alias timer='echo "Timer started. Stop with Ctrl-D." && date && time cat && date'
